@@ -11,8 +11,8 @@ You about Your privacy rights and how the law protects You.
 ## Interpretation
 
 The words of which the initial letter is capitalized have meanings defined
-under the following conditions. The following definitions shall have the
-same meaning regardless of whether they appear in singular or in plural.
+under the following conditions. The following definitions shall have the same
+meaning regardless of whether they appear in singular or in plural.
 
 ## Definitions
 
@@ -23,8 +23,6 @@ by You on any electronic device.
 
 - __Company__ (referred to as either "the Company", "We", "Us" or "Our" in
 this Agreement) refers to the developer of the Application.
-
-- __Country__ refers to:  South Korea
 
 - __Device__ means any device that can access the Service such as a computer,
 a cellphone or a digital tablet.
@@ -44,23 +42,28 @@ using the Service, as applicable.
 
 # Collecting and Using Your Personal Data
 
-We do not collect any of Your personal data while You are using our services
-exclusively. All data created by You are stored on Your device only, and
-will be deleted when You uninstall the Application.
+- We do not collect any Personal Data.
+
+- We do not collect any Usage Data.
+
+# Children's Privacy
+
+- Our Service does not address anyone under the age of 13.
 
 # Links to Other Websites
 
 Our Service may contain links to other websites that are not operated by Us.
 If You click on a third party link, You will be directed to that third party's
-site. We strongly advise You to review the Privacy Policy of every site You visit.
+site. We strongly advise You to review the Privacy Policy of every site You
+visit.
 
 We have no control over and assume no responsibility for the content,
 privacy policies or practices of any third party sites or services.
 
 # Changes to this Privacy Policy
 
-We may update Our Privacy Policy from time to time. We will notify You of
-any changes by posting the new Privacy Policy on this page.
+We may update Our Privacy Policy from time to time. We will notify You of any
+changes by posting the new Privacy Policy on this page.
 
 We will let You know via email and/or a prominent notice on Our Service,
 prior to the change becoming effective and update the "Last updated" date at
