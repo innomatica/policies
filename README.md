@@ -1,19 +1,23 @@
-# qree
+# Carta
+* [Disclaimer](./carta/disclaimer.md)
+* [Privacy Policy](./carta/privacy.md)
+
+# QRee
 * [Disclaimer](./qree/disclaimer.md)
 * [Privacy Policy](./qree/privacy.md)
 
-# nuntium
+# Nuntium
 * [Disclaimer](./nuntium/disclaimer.md)
 * [Privacy Policy](./nuntium/privacy.md)
 
-# smca
+# SMCA
 * [Disclaimer](./smca/disclaimer.md)
 * [Privacy Policy](./smca/privacy.md)
 
-# smkr
+# SMKR
 * [Disclaimer](./smkr/disclaimer.md)
 * [Privacy Policy](./smkr/privacy.md)
 
-# sonore
+# Sonore
 * [Disclaimer](./sonore/disclaimer.md)
 * [Privacy Policy](./sonore/privacy.md)

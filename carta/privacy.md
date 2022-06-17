@@ -19,10 +19,10 @@ meaning regardless of whether they appear in singular or in plural.
 For the purposes of this Privacy Policy:
 
 - __Application__ means the software program provided by the Company downloaded
-by You on any electronic device, named QRee.
+by You on any electronic device, named Carta.
 
 - __Company__ (referred to as either "the Company", "We", "Us" or "Our" in
-this Agreement) refers to the developer(s) of QRee.
+this Agreement) refers to the developer(s) of Carta..
 
 - __Device__ means any device that can access the Service such as a computer,
 a cellphone or a digital tablet.
